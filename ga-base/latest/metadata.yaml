@@ -1,0 +1,10 @@
+author: DrakkarSoftware
+description: ''
+name: ga_evaluator.zip
+repository: Unknown repository location
+short-name: ga_evaluator.zip
+tags: []
+tentacles:
+- genome_evaluator@0.1.1
+type: tentacle_package
+version: unknown_version
