@@ -5,6 +5,6 @@ repository: Unknown repository location
 short-name: ga_evaluator.zip
 tags: []
 tentacles:
-- genome_evaluator@0.1.2
+- genome_evaluator@0.2.0
 type: tentacle_package
 version: unknown_version
